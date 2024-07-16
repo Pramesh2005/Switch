@@ -1,0 +1,30 @@
+div {
+    padding: 30px;
+    margin: 50px;
+    background-color: bisque;
+    height: 190px;
+    width: 500px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    border: 3px solid rgb(0, 0, 0);
+    box-shadow: 5PX 5PX 5PX 5PX;
+}
+#day {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 7px;
+    margin: 5px;
+    color: rgb(45, 18, 104);
+}
+#btnSubmit {
+    background-color: red;
+    color: white;
+    padding:12px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
